@@ -24,7 +24,7 @@ Customized page from ["Voices of the 60's" in the Windows Store][4].
 
  - Windows 8
  - [Visual Studio 2012 Express for Windows 8][1] or higher
- - [Construct 2][1] free edition
+ - [Construct 2][2] free edition
  
 
 ##Setup and Customization
