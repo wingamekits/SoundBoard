@@ -3,7 +3,6 @@
 ###Author(s): Jim O'Neil
 ###Date: 9.16.2013
 ###Version: v1.0.0
-###Author(s): Jim O'Neil
 ###URL: https://github.com/wingamekits/SoundBoard
 
 ----------
@@ -16,7 +15,7 @@ The Soundboard Starter Kit is a Construct 2 template for a simple soundboard app
 Default starter kit page
 ![Template](soundboard.png)
 
-Customized page from ["Voices of the 60's" in the Windows Store][4].
+Customized screen from ["Voices of the 60's" in the Windows Store][4].
 ![Completed application](soundboard2.png)
 
 
